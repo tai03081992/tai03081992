@@ -1,6 +1,8 @@
-## Hi there 👋
+## Olá, tudo bem?🩷
+Meu nome é ##Taimara de Andrade Silva##
+Sou professora de química, mas estou dando aulas de tecnologia e estou gostando![Esse mês é meu aniversário](https://media1.tenor.com/m/3jpIHQ35ubwAAAAC/happy-august.gif)
 
-<!--
+
 **tai03081992/tai03081992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
